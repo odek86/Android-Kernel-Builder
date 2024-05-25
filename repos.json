@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "xiaomi_mt6768_kernel",
+      "repo": "https://github.com/Redmi-MT6768/android_kernel_xiaomi_mt6768",
+      "branch": "twelve",
+      "device": "lancelot"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
