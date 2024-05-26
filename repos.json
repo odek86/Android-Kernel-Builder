@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "xiaomi_mt6768_kernel",
-      "repo": "https://github.com/Redmi-MT6768/android_kernel_xiaomi_mt6768",
+      "repo": "https://github.com/odek86/android_kernel_xiaomi_mt6768",
       "branch": "twelve",
-      "device": "lancelot"
+      "device": "x682c"
     },
     "withKernelSU": false,
     "toolchains": [
